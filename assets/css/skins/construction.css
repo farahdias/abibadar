@@ -222,7 +222,6 @@ Subscription Widget
 /* ======== REV 4 Slider CSS ============ */
 .tp-banner-container{
     width:100%;
-    height:100% !important;
     position:relative;
     padding:0;
 }
@@ -237,7 +236,6 @@ Subscription Widget
 }
 .tp-banner-fullscreen-container {
     width:100%;
-    height:100% !important;
     position:relative;
     padding:0;
 }
